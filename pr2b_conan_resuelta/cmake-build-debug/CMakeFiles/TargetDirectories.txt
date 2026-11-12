@@ -1,0 +1,3 @@
+R:/UNI/IGV/Practcas 2 resueltas/pr2b_conan_resuelta/cmake-build-debug/CMakeFiles/pr2b.dir
+R:/UNI/IGV/Practcas 2 resueltas/pr2b_conan_resuelta/cmake-build-debug/CMakeFiles/edit_cache.dir
+R:/UNI/IGV/Practcas 2 resueltas/pr2b_conan_resuelta/cmake-build-debug/CMakeFiles/rebuild_cache.dir

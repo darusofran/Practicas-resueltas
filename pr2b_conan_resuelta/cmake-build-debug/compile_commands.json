@@ -1,0 +1,32 @@
+[
+{
+  "directory": "R:/UNI/IGV/Practcas 2 resueltas/pr2b_conan_resuelta/cmake-build-debug",
+  "command": "\"R:\\Softwares uni\\IFGV\\CLion\\bin\\mingw\\bin\\c++.exe\" -DFREEGLUT_LIB_PRAGMAS=0 -DFREEGLUT_STATIC=1 -I\"R:/UNI/IGV/Practcas 2 resueltas/pr2b_conan_resuelta/.\" -isystem C:/Users/DARUS/.conan2/p/openg599e77efdc939/p/include -isystem C:/Users/DARUS/.conan2/p/khrpl54278e0c9b4ae/p/include -isystem C:/Users/DARUS/.conan2/p/b/freeg39f81671a0aa1/p/include -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\pr2b.dir\\igvCamara.cpp.obj -c \"R:\\UNI\\IGV\\Practcas 2 resueltas\\pr2b_conan_resuelta\\igvCamara.cpp\"",
+  "file": "R:/UNI/IGV/Practcas 2 resueltas/pr2b_conan_resuelta/igvCamara.cpp",
+  "output": "R:/UNI/IGV/Practcas 2 resueltas/pr2b_conan_resuelta/cmake-build-debug/CMakeFiles/pr2b.dir/igvCamara.cpp.obj"
+},
+{
+  "directory": "R:/UNI/IGV/Practcas 2 resueltas/pr2b_conan_resuelta/cmake-build-debug",
+  "command": "\"R:\\Softwares uni\\IFGV\\CLion\\bin\\mingw\\bin\\c++.exe\" -DFREEGLUT_LIB_PRAGMAS=0 -DFREEGLUT_STATIC=1 -I\"R:/UNI/IGV/Practcas 2 resueltas/pr2b_conan_resuelta/.\" -isystem C:/Users/DARUS/.conan2/p/openg599e77efdc939/p/include -isystem C:/Users/DARUS/.conan2/p/khrpl54278e0c9b4ae/p/include -isystem C:/Users/DARUS/.conan2/p/b/freeg39f81671a0aa1/p/include -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\pr2b.dir\\igvEscena3D.cpp.obj -c \"R:\\UNI\\IGV\\Practcas 2 resueltas\\pr2b_conan_resuelta\\igvEscena3D.cpp\"",
+  "file": "R:/UNI/IGV/Practcas 2 resueltas/pr2b_conan_resuelta/igvEscena3D.cpp",
+  "output": "R:/UNI/IGV/Practcas 2 resueltas/pr2b_conan_resuelta/cmake-build-debug/CMakeFiles/pr2b.dir/igvEscena3D.cpp.obj"
+},
+{
+  "directory": "R:/UNI/IGV/Practcas 2 resueltas/pr2b_conan_resuelta/cmake-build-debug",
+  "command": "\"R:\\Softwares uni\\IFGV\\CLion\\bin\\mingw\\bin\\c++.exe\" -DFREEGLUT_LIB_PRAGMAS=0 -DFREEGLUT_STATIC=1 -I\"R:/UNI/IGV/Practcas 2 resueltas/pr2b_conan_resuelta/.\" -isystem C:/Users/DARUS/.conan2/p/openg599e77efdc939/p/include -isystem C:/Users/DARUS/.conan2/p/khrpl54278e0c9b4ae/p/include -isystem C:/Users/DARUS/.conan2/p/b/freeg39f81671a0aa1/p/include -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\pr2b.dir\\igvInterfaz.cpp.obj -c \"R:\\UNI\\IGV\\Practcas 2 resueltas\\pr2b_conan_resuelta\\igvInterfaz.cpp\"",
+  "file": "R:/UNI/IGV/Practcas 2 resueltas/pr2b_conan_resuelta/igvInterfaz.cpp",
+  "output": "R:/UNI/IGV/Practcas 2 resueltas/pr2b_conan_resuelta/cmake-build-debug/CMakeFiles/pr2b.dir/igvInterfaz.cpp.obj"
+},
+{
+  "directory": "R:/UNI/IGV/Practcas 2 resueltas/pr2b_conan_resuelta/cmake-build-debug",
+  "command": "\"R:\\Softwares uni\\IFGV\\CLion\\bin\\mingw\\bin\\c++.exe\" -DFREEGLUT_LIB_PRAGMAS=0 -DFREEGLUT_STATIC=1 -I\"R:/UNI/IGV/Practcas 2 resueltas/pr2b_conan_resuelta/.\" -isystem C:/Users/DARUS/.conan2/p/openg599e77efdc939/p/include -isystem C:/Users/DARUS/.conan2/p/khrpl54278e0c9b4ae/p/include -isystem C:/Users/DARUS/.conan2/p/b/freeg39f81671a0aa1/p/include -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\pr2b.dir\\igvPunto3D.cpp.obj -c \"R:\\UNI\\IGV\\Practcas 2 resueltas\\pr2b_conan_resuelta\\igvPunto3D.cpp\"",
+  "file": "R:/UNI/IGV/Practcas 2 resueltas/pr2b_conan_resuelta/igvPunto3D.cpp",
+  "output": "R:/UNI/IGV/Practcas 2 resueltas/pr2b_conan_resuelta/cmake-build-debug/CMakeFiles/pr2b.dir/igvPunto3D.cpp.obj"
+},
+{
+  "directory": "R:/UNI/IGV/Practcas 2 resueltas/pr2b_conan_resuelta/cmake-build-debug",
+  "command": "\"R:\\Softwares uni\\IFGV\\CLion\\bin\\mingw\\bin\\c++.exe\" -DFREEGLUT_LIB_PRAGMAS=0 -DFREEGLUT_STATIC=1 -I\"R:/UNI/IGV/Practcas 2 resueltas/pr2b_conan_resuelta/.\" -isystem C:/Users/DARUS/.conan2/p/openg599e77efdc939/p/include -isystem C:/Users/DARUS/.conan2/p/khrpl54278e0c9b4ae/p/include -isystem C:/Users/DARUS/.conan2/p/b/freeg39f81671a0aa1/p/include -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\pr2b.dir\\pr2b.cpp.obj -c \"R:\\UNI\\IGV\\Practcas 2 resueltas\\pr2b_conan_resuelta\\pr2b.cpp\"",
+  "file": "R:/UNI/IGV/Practcas 2 resueltas/pr2b_conan_resuelta/pr2b.cpp",
+  "output": "R:/UNI/IGV/Practcas 2 resueltas/pr2b_conan_resuelta/cmake-build-debug/CMakeFiles/pr2b.dir/pr2b.cpp.obj"
+}
+]
